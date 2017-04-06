@@ -1,8 +1,8 @@
 /* eslint-disable prefer-arrow-callback */
 
 Package.describe({
-  name: 'johanbrook:publication-collector',
-  version: '1.0.7',
+  name: 'loren:publication-collector',
+  version: '1.0.7_1',
   summary: 'Test a Meteor publication by collecting its output.',
   documentation: 'README.md',
   git: 'https://github.com/johanbrook/meteor-publication-collector.git',
